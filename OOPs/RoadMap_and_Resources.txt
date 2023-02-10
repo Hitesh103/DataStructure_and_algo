@@ -1,0 +1,16 @@
+This is the coding ninja website where everything is written. 
+https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118817/offering/1382190
+
+Road Map
+https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
+
+here are resources too
+
+
+Do this :
+
+1. Take in depth knowledge of concept
+
+2. Implemantaion detail
+
+3. Real time use , how it is related to real world problems
