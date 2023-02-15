@@ -6,6 +6,6 @@
     cin >> str1 >> str2;
     cout << str1 << str2;
     getline(cin, str1);
-    // getline() is uesd to get a whole line as input
+    // getline() is uesd to get a whole line as input.
  }
  
