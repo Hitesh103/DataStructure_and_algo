@@ -1,4 +1,4 @@
-// Print All Maze Path to reach at last element in 2D Matrix
+//Print All Maze Path to reach at last element in 2D Matri
 #include<bits/stdc++.h>
 using namespace std;
 
